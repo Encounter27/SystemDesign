@@ -1,3 +1,10 @@
 # Microservice patterns
 
 1. https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
+
+# Security 
+
+1. How make JWT tokens secure ?
+-> https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen
+
+
