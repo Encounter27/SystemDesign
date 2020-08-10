@@ -34,3 +34,7 @@
 -> Vector clocks
 -> Leaky bucket
 -> Token bucket
+-> count min sketch
+-> bloom filter
+-> consistent hashing
+-> 
