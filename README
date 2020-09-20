@@ -1,6 +1,7 @@
 # Microservice patterns
 
 1. https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
+2. https://www.nginx.com/blog/what-is-a-service-mesh/
 
 # Microservices + Events + Docker
 -> https://www.youtube.com/watch?v=sSm2dRarhPo
