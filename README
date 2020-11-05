@@ -1,3 +1,6 @@
+# Multipart implementation Golang
+https://github.com/golang/go/blob/master/src/mime/multipart/multipart.go
+
 # Microservice patterns
 
 1. https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
