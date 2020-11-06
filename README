@@ -47,3 +47,17 @@ https://github.com/golang/go/blob/master/src/mime/multipart/multipart.go
 
 # Protocols
 -> IMAP
+-> PSTN
+-> VOIP
+-> SIP
+-> 
+
+# Algorithms for distributed systems
+1. Timming wheel.
+2. Consistent hashing
+3. Consesus, Raft, Gossip
+4. Chord
+5. Count min sketch
+6. Bloom filter
+7. Leaky bucket and token bucket.
+8. 
