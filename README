@@ -50,7 +50,8 @@ https://github.com/golang/go/blob/master/src/mime/multipart/multipart.go
 -> PSTN
 -> VOIP
 -> SIP
--> 
+-> NAS, filers, filesystems or storage
+-> NAS protocols such as SMB, CIFS, NFS or S3
 
 # Algorithms for distributed systems
 1. Timming wheel.
