@@ -62,3 +62,8 @@ https://github.com/golang/go/blob/master/src/mime/multipart/multipart.go
 6. Bloom filter
 7. Leaky bucket and token bucket.
 8. 
+
+# stream processing -
+1. kafka stream.
+2. spark , RDD
+3. Create a leader board for real time stream data.
