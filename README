@@ -1,4 +1,5 @@
 # Kubernetes vs docker swarm
+Pods vs Container -> https://www.youtube.com/watch?v=w_WAGr21wUw&t=168s&ab_channel=networknutsdotnet
 https://vexxhost.com/blog/kubernetes-vs-docker-swarm-containerization-platforms/#:~:text=In%20Kubernetes%2C%20an%20application%20can,used%20to%20specify%20multi%2Dcontainer.
 
 # Multipart implementation Golang
