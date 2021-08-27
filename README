@@ -32,7 +32,6 @@ https://github.com/golang/go/blob/master/src/mime/multipart/multipart.go
 -> https://www.cohesity.com/blog/kubernetes-backup-understanding-the-challenges/?utm_medium=social-organic&utm_source=linkedin&utm_campaign=kubernetes-backup
 
 # Container
-
 -> https://www.youtube.com/watch?v=EnJ7qX9fkcU
 
 
@@ -93,3 +92,7 @@ https://github.com/golang/go/blob/master/src/mime/multipart/multipart.go
 
 #Resilency
 1. https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b
+
+# CDN
+https://openconnect.netflix.com/en_gb/
+https://www.akamai.com/our-thinking/cdn/what-is-a-cdn
