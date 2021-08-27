@@ -96,3 +96,6 @@ https://github.com/golang/go/blob/master/src/mime/multipart/multipart.go
 # CDN
 https://openconnect.netflix.com/en_gb/
 https://www.akamai.com/our-thinking/cdn/what-is-a-cdn
+
+# Scale MySQL
+https://avishwakarma.medium.com/mysql-scaling-and-how-to-do-it-d7f5b8dbd5b9
